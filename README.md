@@ -39,7 +39,7 @@ A configurable Wi-Fi Access Point (AP) for security testing labs, supporting **W
 ## Getting Started
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/esp32-wifi-hack-lab.git
+git clone https://github.com/MahmudEG/esp32-wifi-hack-lab.git
 cd esp32-wifi-hack-lab
 ```
 
