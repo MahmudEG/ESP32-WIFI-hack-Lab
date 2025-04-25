@@ -105,9 +105,3 @@ Pull requests are welcome! For major changes, open an issue first.
 
 ## License
 [MIT](LICENSE)
-
-### How to Use This README:
-1. Save as `README.md` in your project root.
-2. Replace `yourusername` in the clone URL with your GitHub username.
-3. Update the [License](LICENSE) file if needed.
-4. Customize the "Features" and "Notes" sections as desired.
